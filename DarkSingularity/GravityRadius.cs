@@ -17,7 +17,7 @@ namespace Darkhitori.PlaymakerActions._Singularity
 		[Tooltip("Repeat every frame.")]
 		public bool everyFrame;
         
-		Singularity darkComp;
+		
         #endregion
         
         #region Reset Values
